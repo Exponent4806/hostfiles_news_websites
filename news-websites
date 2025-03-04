@@ -1,3 +1,12 @@
+Open terminal and type:
+sudo gedit /etc/hosts
+
+Type each website's name you want to block like this:
+
+News websites
+
+
+
 0.0.0.0 braunschweiger-zeitung.de
 0.0.0.0 mannheimer-morgen.de
 0.0.0.0 haas-mediengruppe.de
